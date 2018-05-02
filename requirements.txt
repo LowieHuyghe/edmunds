@@ -1,4 +1,4 @@
-Flask==0.12.2
+Flask==1.0.2
 google-api-python-client==1.6.5
 GoogleAppEngineCloudStorageClient==1.9.22.1
 pyprof2calltree==1.4.3
