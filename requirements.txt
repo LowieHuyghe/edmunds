@@ -11,7 +11,7 @@ Flask-Migrate==2.1.1
 user-agents==1.1.0
 geoip2==2.8.0
 timezonefinderL==2.0.1
-Babel==2.5.3
+Babel==2.6.0
 redis==2.10.6
 python-memcached==1.59
 Flask-Security==3.0.0
