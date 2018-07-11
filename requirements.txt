@@ -1,5 +1,5 @@
 Flask==0.12.2
-google-api-python-client==1.6.7
+google-api-python-client==1.7.4
 GoogleAppEngineCloudStorageClient==1.9.22.1
 pyprof2calltree==1.4.3
 Flask-WTF==0.14.2
